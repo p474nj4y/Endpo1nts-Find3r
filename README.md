@@ -1,5 +1,5 @@
 # Endpo1nts-Find3r
-a tool to get enpoints of a website with your own custom wordlists .(Kindly use your own worlists file)
+a tool to get endpoints of a website with your own custom wordlists .(Kindly use your own worlists file)
 
 # install the requirements :
 
